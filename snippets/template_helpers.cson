@@ -1,0 +1,6 @@
+'*':
+	'$.dspInclude()':
+		'prefix': 'mura-dspinc'
+		'body': """
+			$.dspInclude('display_objects/${1:custom}/${2:myFile.cfm}');
+		"""
