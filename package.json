@@ -1,11 +1,10 @@
 {
   "name": "mura-snippets",
   "main": "./lib/mura-snippets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mura CMS Snippets by Ryan Watts",
   "author": "Ryan Watts",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rwatts3/atom-mura-snippets.git"
@@ -17,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
